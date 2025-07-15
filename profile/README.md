@@ -1,3 +1,7 @@
+# ☕ 커피바라
+
+청년과 지역을 잇는 AI 기반 커피챗 멘토링 플랫폼
+
 ## 🔗 Repositories
 
 | 📁 Repository                          | 설명                                |
@@ -6,10 +10,6 @@
 | [coffee-bara-backend](https://github.com/koffeebara/Backend-Spring-Boot)   | 백엔드 (Spring Boot + MySQL)         |
 | [coffee-bara-infra](https://github.com/koffeebara/sigortalk-infra)       | Terraform, Ansible 인프라 구성 코드 |
 | [coffee-bara-docs](https://www.notion.so/228c94c8d6d180f6b31dd5af4191e91a)         | 기획 및 산출물 문서                  |
-
-# ☕ 커피바라
-
-청년과 지역을 잇는 AI 기반 커피챗 멘토링 플랫폼
 
 ## 📋 프로젝트 개요
 
